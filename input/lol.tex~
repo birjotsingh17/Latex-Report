@@ -1,0 +1,29 @@
+\section{CONCLUSION}
+The proposed system  that is Automobile Finance Management  System AFMS is developed using Java and SQL that fully meets the objectives of the system for which it has been developed. The system has reached a steady state where all the bugs have been eliminated. The system is operated at a high level of efficiency and all the employees associated with the system understand its advantage. The system solves the problem it was intended to solve as requirement specification.
+
+\section{FUTURE SCOPE}
+The system would accomplish the following:
+\begin{itemize}
+\item Reduce the paperwork and storage area.
+\item Multiuser system.
+\item Improve accuracy in generate toll slip.
+\item Up to date listings for employees.
+\item Allow easy navigation by creating listing feature.
+\item Manage the man and machine resources efficiently.
+\item It has user friendly interface having quick authenticated access to information.
+\item Multiple utilities for head.
+\item Locate information easily by using search options.
+\item The system provides security through password authentication. The head and the employees are allocated with their user ids and passwords that help maintain the integrity of the system.
+\end{itemize}
+
+The scope is intended to be fulfilled because of the systems following features:
+
+\begin{itemize}
+\item Secure: \newline
+The project is provided with a proper back up maintained for the security of the information.
+\item Easy to Use: \newline 
+The employees are provided with his user id and password to have a proper and secured access to the software and it is easy to use.
+\item Reliable and accurate:\newline 
+          An accurate and to the date information is being stored which can be viewed as and when required. 
+
+\end {itemize}

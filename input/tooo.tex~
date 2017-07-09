@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+\section{SNAPSHOTS OF SYSTEM}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image13.jpeg}s
+\end{center}
+\caption{Login Details}
+\label{Login Details}
+\end{figure}
+ 
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image14.jpeg}
+\end{center}
+\caption{Main Screen of Project}
+\label{Main Screen of Project}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image15.png}
+\end{center}
+\caption{Master}
+\label{Master}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image16.png}
+\end{center}
+\caption{Master: Employee Details}
+\label{Master: Employee Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image17.png}
+\end{center}
+\caption{Employee Details}
+\label{Employee Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image18.png}
+\end{center}
+\caption{Master:Vehicle Details}
+\label{Master:Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image19.png}
+\end{center}
+\caption{Vehicle Details}
+\label{Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image20.png}
+\end{center}
+\caption{Transaction}
+\label{Transaction}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image21.png}
+\end{center}
+\caption{Transaction:Enquiry}
+\label{Transaction:Enquiry}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image22.png}
+\end{center}
+\caption{Enquiry Form}
+\label{Enquiry Form}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image23.png}
+\end{center}
+\caption{Transaction:Request}
+\label{Transaction:Request}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image24.png}
+\end{center}
+\caption{Request Form}
+\label{Request Form}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image25.png}
+\end{center}
+\caption{Verification}
+\label{Verification}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image26.png}
+\end{center}
+\caption{Verification Form}
+\label{Verification Form}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image27.png}
+\end{center}
+\caption{Approval}
+\label{Approval}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image28.png}
+\end{center}
+\caption{Approval Form}
+\label{Approval Form}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image29.png}
+\end{center}
+\caption{Deposit}
+\label{Deposit}
+\end{figure}
+
+\clearpage
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image30.png}
+\end{center}
+\caption{Deposit Form}
+\label{Deposit Form}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image31.png}
+\end{center}
+\caption{Listing}
+\label{Listing}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image32.png}
+\end{center}
+\caption{Enquiry}
+\label{Enquiry}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image33.png}
+\end{center}
+\caption{Enquiry Details}
+\label{Enquiry Details}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image34.png}
+\end{center}
+\caption{Request}
+\label{Request }
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image35.png}
+\end{center}
+\caption{Request Details}
+\label{Request Details}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image36.png}
+\end{center}
+\caption{Verification}
+\label{Verification}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image37.png}
+\end{center}
+\caption{Verification}
+\label{Verification}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image38.png}
+\end{center}
+\caption{Approval}
+\label{Approval}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image39.png}
+\end{center}
+\caption{Approval}
+\label{Approval}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image40.png}
+\end{center}
+\caption{Deposit}
+\label{Deposit}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image41.png}
+\end{center}
+\caption{Deposit Details}
+\label{Deposit Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image42.png}
+\end{center}
+\caption{Employee Details}
+\label{Employee Details}
+\end{figure}
+
+\clearpage
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image43.png}
+\end{center}
+\caption{Employee Details}
+\label{Employee Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image44.png}
+\end{center}
+\caption{Vehicle Details}
+\label{Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image45.png}
+\end{center}
+\caption{Vehicle Details}
+\label{Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image46.png}
+\end{center}
+\caption{Settings}
+\label{Settings}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image47.png}
+\end{center}
+\caption{Account Settings}
+\label{Account Settings}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image48.png}
+\end{center}
+\caption{Account Settings}
+\label{Account Settings}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image51.png}
+\end{center}
+\caption{File Chooser}
+\label{File Chooser}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image52.png}
+\end{center}
+\caption{File Chooser}
+\label{File Chooser}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image53.png}
+\end{center}
+\caption{Web Browser}
+\label{Web Browser}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image54.png}
+\end{center}
+\caption{Web Browser}
+\label{Web Browser}
+\end{figure}
+

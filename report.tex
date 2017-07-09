@@ -1,0 +1,82 @@
+\documentclass[12pt]{report}
+\usepackage[print,nopanel]{pdfscreen}
+\begin{print}
+\usepackage{lipsum}% http://ctan.org/pkg/lipsum
+\usepackage{titletoc}% http://ctan.org/pkg/titletoc
+\usepackage{lastpage}
+\usepackage{macro/macro}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+%Options: Sonny, Lenny, Glenn, Conny, Rejne, Bjarne, Bjornstrup
+\usepackage[Glenn]{fncychap}
+\lhead{\large\bfseries  A.F.M.}
+\usepackage[left=2.5cm, right=1.5cm, top=2.5cm, bottom=1.5cm]{geometry}
+\pagestyle{fancy}
+\end{print}
+\margins{2.5cm}{1.25cm}{1.25cm}{3.5cm}
+\begin{screen}
+
+\renewcommand{\encodingdefault}{T1}
+\usepackage{setspace}
+\linespread{1.5}
+\renewcommand{\rmdefault}{ptm}
+\end{screen}
+\screensize{8cm}{9cm}
+\overlay{overlay8.pdf}
+\usepackage{graphicx}
+
+\begin{document}
+\input{input/titlepage.tex}
+\begin{screen}
+\ppttitle
+\end{screen}
+\footskip 0.7cm
+\thispagestyle{empty} 
+\pagetitle
+\newpage
+\pagenumbering{Roman}
+\cfoot{\thepage}
+
+
+%\input{input/acknowledgement.tex}
+\input{input/ack.tex}
+
+\newpage
+\input{input/ab.tex}
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\listoftables
+\newpage
+
+\pagenumbering{arabic}
+\cfoot{\thepage}
+
+\newpage
+
+%\chapter{ACKNOWLEDGEMENT}
+
+\chapter{INTRODUCTION}
+\input{input/organisation.tex}
+\newpage
+\chapter{REQUIREMENT ANALYSIS AND SYSTEM SPECIFICATION}
+\input{input/latex.tex}
+\chapter{DATABASE DESIGN}
+\input{input/STR.tex}
+\chapter{SYSTEM DESIGN}
+\input{input/sc.tex}
+\chapter{IMPLEMENTATION,TESTING AND MAINTENANCE}
+\input{input/lamp.tex}
+\chapter{RESULTS AND DISCUSSION}
+\input{input/tooo.tex}
+\chapter{CONCLUSION AND FUTURE SCOPE}
+\input{input/lol.tex}
+\%chapter{Conclusion and Future Scope}
+%\input{input/conclusion.tex}
+\input{input/references.tex}
+\end{document}
+

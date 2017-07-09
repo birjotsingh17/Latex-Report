@@ -1,0 +1,45 @@
+\section{INTRODUCTION TO PROJECT}
+
+This is an attempt to create a project AUTOMOBILE FINANCE MANAGEMENT through which will show
+all details of the Vehicles sold and the owners details. This project can make the tedious and mistake prone
+job easier and faster. It can be used both in top-level and bottom-level management for daily
+operation.\newline
+This project also contains the details of the persons who took the loan for buying a vehicle.It also updates the details of EMI's monthly paid by the person.\newline
+There are two users to system:
+\newline
+\begin{itemize}
+\item ADMIIN\newline
+A Admin can perform various functions:
+\begin{itemize}
+\item Login
+\item Entering of details
+\item Search
+\item Update
+\item Reset
+\item Use Utilities
+\end{itemize}
+\item HEAD\newline
+A Head can perform various functions:
+\begin{itemize}
+\item Login
+\item Entering of details
+\item Search
+\item Update
+\item Reset
+\item Use Utilities
+\end{itemize}
+\end{itemize}
+
+\section{PROJECT CATEGORY}
+AUTOMOBILE FINANCE MANAGEMENT is a computer application which is used to manage the data of Automobile Companies.
+
+\section{OBJECTIVES}
+\begin{itemize}
+\item To handle the manual handling and even the workload of the employees of the company by introducing a change in the existing many software system to a single software implementation.
+\item To save time and cost of the employees and company by providing information very efficiently and easily.
+\item To have a proper record of the vehicles coming to toll plaza and having a list and record of that vehicles.
+\item To provide a system with proper recovery of data, in case lost, through a proper backup     provided.
+\item To provide the head with the basic utilities like file choosers, web browser, account settings and backup within the system for the proficient work management of the company.
+\end{itemize}
+
+

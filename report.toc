@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}INTRODUCTION TO PROJECT}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}PROJECT CATEGORY}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}OBJECTIVES}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}EXISTING SYSTEM}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5}PROPOSED SYSTEM}{2}{section.1.5}
+\contentsline {chapter}{\numberline {2}REQUIREMENT ANALYSIS AND SYSTEM SPECIFICATION}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}PROJECT FORMULATION}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}TYPES OF FEASIBILITY STUDY}{3}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}ECONOMIC FEASIBILITY:}{3}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}OPERATIONAL FEASIBILITY:}{3}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}TECHNICAL FEASIBILITY:}{4}{subsubsection.2.1.1.3}
+\contentsline {section}{\numberline {2.2}HARDWARE AND SOFTWARE SPECIFICATION}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}METHODOLOGY}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}FUNCTIONAL REQUIREMENT}{4}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Software Development Life Cycle Model}{5}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Spiral Model}{5}{subsection.2.4.1}
+\contentsline {chapter}{\numberline {3}DATABASE DESIGN}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}TABLE STRUCTURES}{7}{section.3.1}
+\contentsline {chapter}{\numberline {4}SYSTEM DESIGN}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}PAGES}{12}{section.4.1}
+\contentsline {chapter}{\numberline {5}IMPLEMENTATION,TESTING AND MAINTENANCE}{14}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction To Language}{14}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}JAVA}{14}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}LAMP}{16}{subsection.5.1.2}
+\contentsline {chapter}{\numberline {6}RESULTS AND DISCUSSION}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}SNAPSHOTS OF SYSTEM}{17}{section.6.1}
+\contentsline {chapter}{\numberline {7}CONCLUSION AND FUTURE SCOPE}{33}{chapter.7}
+\contentsline {section}{\numberline {7.1}CONCLUSION}{33}{section.7.1}
+\contentsline {section}{\numberline {7.2}FUTURE SCOPE}{33}{section.7.2}
+\contentsfinish 

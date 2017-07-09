@@ -1,0 +1,217 @@
+
+\section{PAGES}  
+\begin{itemize}
+\item Enter Login Details: LoginAs, Uder ID and Password
+\item Master \newline
+Definition of Master : All the information your company needs  is stored in a data record in the master data, sorted by various different criteria. You can enter and change most of the data in master data by head . In master  we have all Employee  details which includes their name, employee id ,address, phone number,email etc. and   Vehicle details which includes product id, vehicle type , vehicle name ,model,price .
+\newline
+Master Data Module contains various sections:	
+\begin{itemize}
+\item Employee Details
+\item Vehicle Detail
+\end{itemize}
+\item Transaction\newline
+Definition of Transaction: It includes enquiry,request, verification, approval and deposit information of the vehicle .\newline
+\begin{itemize}
+\item Enquiry:  In this section, customer enquiry details are there. We can select the vehicle type which enables to select vehicle name and it automatically displays vehicle model.
+\item Request: It consist of request form which contains  the payment record including instalments.
+\item Verification: It includes verification of the customer details.
+\item Approval: After the verification is successfully over, then request is approved.
+\item Deposit: It consist of deposit details like the mode of payment, taxes, due date etc.
+\end{itemize}
+\item Listing \newline
+Definition of List of Data: This section provides the list of data. The List of data includes all the data of a particular section.
+\begin{itemize}
+\item Enquiry
+\item Enquiry Details
+\item Request
+\item Request Details
+\item Verification
+\item Approval
+\item Deposit
+\item Employee Details
+\item Vehicle Details
+\end{itemize}
+\item Settings\newline
+ Settings: This section provide us account settings, File Chooser, Web Browser and Backup. Account settings and backup only access by head.\newline
+Settings Module contains various sections:
+\begin{itemize}
+\item Account Settings: In Account Settings, System Head can Create a new user account and can change the password of existing accounts in the system. Change Password can be used if in any case user forget password of his account.
+\item File Chooser: A file chooser  is a computer program that provides a user interface to work with file systems. User can access any type of document (like pdf,mp3,jpg).
+\item Web Browser: A file chooser  is a computer program that provides a user interface to work with file systems. User can access any type of document (like pdf,mp3,jpg).
+
+\end{itemize}
+\end{itemize}
+
+
+
+\section{SCREENSHOTS}
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image13.jpeg}s
+\end{center}
+\caption{Login Details}
+\label{Login Details}
+\end{figure}
+ 
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image14.jpeg}
+\end{center}
+\caption{Main Screen of Project}
+\label{Main Screen of Project}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image15.png}
+\end{center}
+\caption{Master}
+\label{Master}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image16.png}
+\end{center}
+\caption{Master: Employee Details}
+\label{Master: Employee Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image17.png}
+\end{center}
+\caption{Employee Details}
+\label{Employee Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image18.png}
+\end{center}
+\caption{Master:Vehicle Details}
+\label{Master:Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image19.png}
+\end{center}
+\caption{Vehicle Details}
+\label{Vehicle Details}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image20.png}
+\end{center}
+\caption{Transaction}
+\label{Transaction}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image21.png}
+\end{center}
+\caption{table structure of login}
+\label{table structure of login}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image22.png}
+\end{center}
+\caption{table structure of request}
+\label{table structure of request}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image23.png}
+\end{center}
+\caption{table structure of vehicleinfo}
+\label{table structure of vehicleinfo}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image24.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image25.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image26.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image27.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image28.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image29.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image30.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image31.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+\begin{figure}[ht]
+\begin{center}
+\includegraphics[scale=0.5]{images/image32.png}
+\end{center}
+\caption{table structure of verify}
+\label{table structure of verify}
+\end{figure}
+
+
+
+

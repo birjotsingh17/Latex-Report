@@ -1,0 +1,30 @@
+\BOOKMARK [0][]{chapter.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][]{section.1.1}{INTRODUCTION TO PROJECT}{chapter.1}% 2
+\BOOKMARK [1][]{section.1.2}{PROJECT CATEGORY}{chapter.1}% 3
+\BOOKMARK [1][]{section.1.3}{OBJECTIVES}{chapter.1}% 4
+\BOOKMARK [1][]{section.1.4}{EXISTING SYSTEM}{chapter.1}% 5
+\BOOKMARK [1][]{section.1.5}{PROPOSED SYSTEM}{chapter.1}% 6
+\BOOKMARK [0][]{chapter.2}{REQUIREMENT ANALYSIS AND SYSTEM SPECIFICATION}{}% 7
+\BOOKMARK [1][]{section.2.1}{PROJECT FORMULATION}{chapter.2}% 8
+\BOOKMARK [2][]{subsection.2.1.1}{TYPES OF FEASIBILITY STUDY}{section.2.1}% 9
+\BOOKMARK [3][]{subsubsection.2.1.1.1}{ECONOMIC FEASIBILITY:}{subsection.2.1.1}% 10
+\BOOKMARK [3][]{subsubsection.2.1.1.2}{OPERATIONAL FEASIBILITY:}{subsection.2.1.1}% 11
+\BOOKMARK [3][]{subsubsection.2.1.1.3}{TECHNICAL FEASIBILITY:}{subsection.2.1.1}% 12
+\BOOKMARK [1][]{section.2.2}{HARDWARE AND SOFTWARE SPECIFICATION}{chapter.2}% 13
+\BOOKMARK [1][]{section.2.3}{METHODOLOGY}{chapter.2}% 14
+\BOOKMARK [2][]{subsection.2.3.1}{FUNCTIONAL REQUIREMENT}{section.2.3}% 15
+\BOOKMARK [1][]{section.2.4}{Software Development Life Cycle Model}{chapter.2}% 16
+\BOOKMARK [2][]{subsection.2.4.1}{Spiral Model}{section.2.4}% 17
+\BOOKMARK [0][]{chapter.3}{DATABASE DESIGN}{}% 18
+\BOOKMARK [1][]{section.3.1}{TABLE STRUCTURES}{chapter.3}% 19
+\BOOKMARK [0][]{chapter.4}{SYSTEM DESIGN}{}% 20
+\BOOKMARK [1][]{section.4.1}{PAGES}{chapter.4}% 21
+\BOOKMARK [0][]{chapter.5}{IMPLEMENTATION,TESTING AND MAINTENANCE}{}% 22
+\BOOKMARK [1][]{section.5.1}{Introduction To Language}{chapter.5}% 23
+\BOOKMARK [2][]{subsection.5.1.1}{JAVA}{section.5.1}% 24
+\BOOKMARK [2][]{subsection.5.1.2}{LAMP}{section.5.1}% 25
+\BOOKMARK [0][]{chapter.6}{RESULTS AND DISCUSSION}{}% 26
+\BOOKMARK [1][]{section.6.1}{SNAPSHOTS OF SYSTEM}{chapter.6}% 27
+\BOOKMARK [0][]{chapter.7}{CONCLUSION AND FUTURE SCOPE}{}% 28
+\BOOKMARK [1][]{section.7.1}{CONCLUSION}{chapter.7}% 29
+\BOOKMARK [1][]{section.7.2}{FUTURE SCOPE}{chapter.7}% 30
